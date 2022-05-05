@@ -6,7 +6,7 @@ I'm Kuba and I'm from Poland! I'm interested in programming.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xKubsoneQ&theme=dark)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,5 +79,5 @@ JavaScript               7 repos             ███████████�
 
 
 
- Last Updated on 04/05/2022 00:59:28 UTC
+ Last Updated on 05/05/2022 00:58:51 UTC
 <!--END_SECTION:waka-->
