@@ -5,5 +5,5 @@
   <a href="https://discord.com/users/404217213873029120"><img src="https://lanyard.cnrad.dev/api/404217213873029120"></a>
   <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api?username=xKubsoneQ&show_icons=true&theme=dark"></a><br>
   <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKubsoneQ&theme=dark"></a><br>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=xKubsoneQ"></a><br>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=xKubsoneQ&theme=dark"></a><br>
 </div>
