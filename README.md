@@ -4,7 +4,7 @@
  ### My Discord profile
  <a href="https://discord.com/users/404217213873029120"><img src="https://profiles.fratik.pl/404217213873029120" width="500" height="300"></a>
  ### My GitHub stats
- <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api?username=xKubsoneQ&show_icons=true&count_private=true&theme=dark"></a><br>
+ <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api?username=xKubsoneQ&show_icons=true&count_private=true&theme=outrun"></a><br>
  ### My favourite languages
  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=xKubsoneQ&theme=dark"></a><br>
  <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKubsoneQ&theme=dark"></a>
