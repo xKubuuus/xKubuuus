@@ -3,8 +3,7 @@
  ### My Discord profile
  <a href="https://discord.com/users/404217213873029120"><img src="https://lanyard.cnrad.dev/api/404217213873029120?bg=0B132B&borderRadius=15px&animated=true&idleMessage=In%20your%20IDE%20(or%20head)."></a>
  ### My GitHub stats
- <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api?username=xKubsoneQ&show_icons=true&count_private=true&theme=outrun"></a><br>
+ <a href="https://github.com/xKubuuus"><img src="https://github-readme-stats.vercel.app/api?username=xKubuuus&show_icons=true&count_private=true&theme=outrun"></a><br>
  ### My favourite languages
- <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=xKubsoneQ&theme=dark"></a><br>
- <a href="https://github.com/xKubsoneQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKubsoneQ&theme=dark"></a>
-
+ <a href="https://github.com/xKubuuus"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=xKubuuus&theme=dark"></a><br>
+ <a href="https://github.com/xKubuuus"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKubuuus&theme=dark"></a>
